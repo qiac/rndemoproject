@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "react-native-tabbar",
+      "/Users/taobangping/Desktop/Git_RCT_Recruiter/RCTGikooRecruiterPro"
+    ]
+  ],
+  "_from": "react-native-tabbar@latest",
+  "_id": "react-native-tabbar@0.3.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-tabbar",
+  "_nodeVersion": "5.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-tabbar-0.3.5.tgz_1454962533855_0.33420703979209065"
+  },
+  "_npmUser": {
+    "email": "a.najafizadeh@gmail.com",
+    "name": "alinz"
+  },
+  "_npmVersion": "3.7.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-tabbar",
+    "raw": "react-native-tabbar",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-tabbar/-/react-native-tabbar-0.3.5.tgz",
+  "_shasum": "2cd0c328521f08c07b2cfbec833adc024a3c7927",
+  "_shrinkwrap": null,
+  "_spec": "react-native-tabbar",
+  "_where": "/Users/taobangping/Desktop/Git_RCT_Recruiter/RCTGikooRecruiterPro",
+  "author": {
+    "name": "Ali Najafizadeh"
+  },
+  "bugs": {
+    "url": "https://github.com/alinz/react-native-tabbar/issues"
+  },
+  "dependencies": {},
+  "description": "Tab bar with more freedom",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2cd0c328521f08c07b2cfbec833adc024a3c7927",
+    "tarball": "http://registry.npmjs.org/react-native-tabbar/-/react-native-tabbar-0.3.5.tgz"
+  },
+  "gitHead": "5c48752552f17fe60132b0a786b2cebf3bb3a516",
+  "homepage": "https://github.com/alinz/react-native-tabbar#readme",
+  "keywords": [
+    "react-native",
+    "tabbar"
+  ],
+  "license": "MIT",
+  "main": "libs/index.js",
+  "maintainers": [
+    {
+      "name": "alinz",
+      "email": "a.najafizadeh@gmail.com"
+    }
+  ],
+  "name": "react-native-tabbar",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alinz/react-native-tabbar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.5"
+}

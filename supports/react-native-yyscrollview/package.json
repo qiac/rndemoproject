@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "react-native-yyscrollview",
+      "/Users/taobangping/Desktop/ReactNative/study/YYScrollViewExample"
+    ]
+  ],
+  "_from": "react-native-yyscrollview@latest",
+  "_id": "react-native-yyscrollview@0.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-yyscrollview",
+  "_nodeVersion": "5.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-yyscrollview-0.0.4.tgz_1457324149163_0.19431865401566029"
+  },
+  "_npmUser": {
+    "email": "y31210@gmail.com",
+    "name": "yiyangest"
+  },
+  "_npmVersion": "3.7.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-yyscrollview",
+    "raw": "react-native-yyscrollview",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-yyscrollview/-/react-native-yyscrollview-0.0.4.tgz",
+  "_shasum": "1bd115ce9aad2f5d46045497c9b268015c7b35fd",
+  "_shrinkwrap": null,
+  "_spec": "react-native-yyscrollview",
+  "_where": "/Users/taobangping/Desktop/ReactNative/study/YYScrollViewExample",
+  "author": {
+    "name": "yiyangest"
+  },
+  "bugs": {
+    "url": "https://github.com/yiyangest/react-native-yyscrollview/issues"
+  },
+  "dependencies": {
+    "react-native-scrollable-mixin": "^1.0.1"
+  },
+  "description": "scrollview/listview with pull-to-refresh and pull-to-loadmore",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1bd115ce9aad2f5d46045497c9b268015c7b35fd",
+    "tarball": "http://registry.npmjs.org/react-native-yyscrollview/-/react-native-yyscrollview-0.0.4.tgz"
+  },
+  "gitHead": "a3f2b2f2fb962ad2aa46d9eddb5cdade7be14a06",
+  "homepage": "https://github.com/yiyangest/react-native-yyscrollview#readme",
+  "keywords": [
+    "pull-to-refresh",
+    "react-native",
+    "scrollview"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yiyangest",
+      "email": "y31210@gmail.com"
+    }
+  ],
+  "name": "react-native-yyscrollview",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiyangest/react-native-yyscrollview.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}

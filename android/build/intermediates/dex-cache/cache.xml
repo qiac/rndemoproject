@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\RNRecruiterProj\easeui\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a9ab10c25ae9ddc22cadb185cca7c96cb8b89796">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\RNRecruiterProj-easeui-unspecified_69d65166e7b9f7c4982a7a626c2a08626c226f4b.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.25.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5453085bfeee55acfa0235a5dc1477e9126013db">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.25.1_d1971d316285a4744eae4670de6420bd83a6f234.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp-0.8.1_00a66eb2fa5afb73098da4a818d8ff762b1c3210.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.8.1_4ce5b22dbba5861bf4b4e208f4a460c045d7707c.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\commons\8f8ab21\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dbcc6fe34b79c4e509b3f9d18221416d6f33b9d7">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-commons-8f8ab21_a9dc0242228d04140b2262842063b6dde265d23b.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\RNRecruiterProj\easeui\unspecified\jars\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d3f98780bbfd0de671b29586731200e213310b8">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\glide-3.6.1_86459b42fc3f540caae0aa057727fcf487796fff.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_8a5da1c53b038547f945761c7fc4aa2d9baf16b0.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.4_ab41645346f22efecdc5d51f8cf727646d373241.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_6c1670d137a7cea9dc554af55b3c78231dbf2b11.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_e3e0611249eff354da413fb525f96757464d0569.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\RNRecruiterProj\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7df4931b6963a0daad06e6263378725d01382c55">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\RNRecruiterProj-react-native-image-picker-unspecified_486e72ee20ca9a56d8fcc9353d2821ca9d70e9fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_f0b4f942a97fe80baa9fb9e417f89c5dd70ed425.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\RNRecruiterProj\easeui\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f651622b0148073aaa7a5aedbd64d44e57c82044">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_6a00a47a3c55a7dd63e4199ba8f9266ae84d8317.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\8f8ab21\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7b7ac4cab249fe1e48f6e20948916c0215c85e99">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-8f8ab21_51bb9659fa265672da3c212a8168c7b498a89ffa.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3_01bf0a614f616460f0c4b877ef31e007b8860836.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_d07b05f0f3c9ffd90fc29872c2fff3e70c0b57fa.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\RNRecruiterProj\easeui\unspecified\jars\libs\hyphenatechat_3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ff36587efbac8403cc3212602c59b98fc579c9c">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\hyphenatechat_3.1.2_3f19200fd17324f4270290b7b77bab5de9788161.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\RNRecruiterProj\easeui\unspecified\jars\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="45cc8eaf5e80c6063ca1154f1dbe343cb5d8e9b2">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_f343f90583b52dec7d764d79cd86f293e60e7816.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\libs\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e2ec99412c33082af0401c25ffba450fb65030da">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\classes_098078274d7f0226610549a7be889720c2ffe38c.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\libs\SUS-SDK_v1.6.3_release_pro_140108.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0714e1a484c0c42a6e72133be91c6316ded4a05e">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\SUS-SDK_v1.6.3_release_pro_140108_3efdec947214897f7ddebde0923b83486cc6f536.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.25.1\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="12b559f4bf81fa45adf2235efa0c2fbd9d933f1e">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_d07e4c8b59b55c5cbd048b98ae4d120132055149.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_28f3971b40ad412017978313eee718abae08662f.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\libs\jpush-android-2.1.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0f26f97f6d6c7cb02247e1ec35034732f234badb">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\jpush-android-2.1.5_560c1af9e6035bb89fc4be2961e79b9865eca123.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\okio-1.6.0_4401195962c124aee90585b4e56280559f2a1abb.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.8.1_9bf6021212d1f47c74ea8864085b3e493149ec2b.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.8.1_aeebbac37da8a04e5bc12dd3b819ffb22b22094e.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.8.1_2c80409d796afd969cf733f729b4a1e4c5f102b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_dfded65035c576832335095fb9fcb80e70f8d6d1.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7eb90d3407943ccbac85ddb1406522baa36ef0ba">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\volley_20d493c1e74ba01165832a68b6a03899ea514261.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0_e6ae0722063a283bf6faf22ba00f5b36c0f6dff8.jar" />
+    </item>
+    <item
+        jar="D:\RN\RNRecruiterProj\android\app\build\intermediates\exploded-aar\RNRecruiterProj\react-native-datetime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7a682d54992da4d914570a18999e5804398f3bfe">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\RNRecruiterProj-react-native-datetime-unspecified_675af8d89aa363cd47e7700364d13a6a27475cf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\Desktop\Android\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_ba9eee310c4ab744d713233c8458c233b48ba687.jar" />
+    </item>
+    <item
+        jar="C:\Users\xiaoq\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\RN\RNRecruiterProj\android\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_01e42860f2b274a581a654708f4f7a4c8a644aac.jar" />
+    </item>
+
+</items>

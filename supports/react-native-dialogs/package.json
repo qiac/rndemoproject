@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "react-native-dialogs",
+      "/Users/taobangping/Desktop/ReactNative/study/ReactMaterialDialogs"
+    ]
+  ],
+  "_from": "react-native-dialogs@latest",
+  "_id": "react-native-dialogs@0.0.15",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-dialogs",
+  "_nodeVersion": "5.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-dialogs-0.0.15.tgz_1459963967699_0.8249364027287811"
+  },
+  "_npmUser": {
+    "email": "aakashns.sky@gmail.com",
+    "name": "aakashns"
+  },
+  "_npmVersion": "3.7.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-dialogs",
+    "raw": "react-native-dialogs",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-dialogs/-/react-native-dialogs-0.0.15.tgz",
+  "_shasum": "83ad1cfe7c0781243dd05fdafc3857f6bf58e593",
+  "_shrinkwrap": null,
+  "_spec": "react-native-dialogs",
+  "_where": "/Users/taobangping/Desktop/ReactNative/study/ReactMaterialDialogs",
+  "author": {
+    "name": "Aakash N S"
+  },
+  "bugs": {
+    "url": "https://github.com/aakashns/react-native-dialogs/issues"
+  },
+  "dependencies": {},
+  "description": "React Native wrappers for https://github.com/afollestad/material-dialogs ",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "83ad1cfe7c0781243dd05fdafc3857f6bf58e593",
+    "tarball": "https://registry.npmjs.org/react-native-dialogs/-/react-native-dialogs-0.0.15.tgz"
+  },
+  "gitHead": "b97a16904ea97f6c601ccc269703fdeab62c8dd9",
+  "homepage": "https://github.com/aakashns/react-native-dialogs#readme",
+  "keywords": [
+    "android",
+    "react-component",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "aakashns",
+      "email": "aakashns.sky@gmail.com"
+    }
+  ],
+  "name": "react-native-dialogs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashns/react-native-dialogs.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "0.0.15"
+}

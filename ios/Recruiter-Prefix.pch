@@ -1,0 +1,28 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "ARCSingletonTemplate.h"
+#import "GKStorageVariableUtils.h"
+#import "BlocksKit.h"
+#import "BlocksKit+UIKit.h"
+#import "EMSDK.h"
+#import "EaseUI/EaseUI.h"
+#import "EMMessage+Ext.h"
+
+#define GLOBAL_QUEUE dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0)
+#define MAIN_QUEUE dispatch_get_main_queue()
+
+#endif

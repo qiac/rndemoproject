@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\RN\\RNRecruiterProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_singlechoice.xml",
+        "source": "D:\\RN\\RNRecruiterProj\\android\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\8f8ab21\\res\\layout-ldrtl\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "D:\\RN\\RNRecruiterProj\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\md_listitem_multichoice.xml",
+        "source": "D:\\RN\\RNRecruiterProj\\android\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\8f8ab21\\res\\layout-ldrtl\\md_listitem_multichoice.xml"
+    }
+]

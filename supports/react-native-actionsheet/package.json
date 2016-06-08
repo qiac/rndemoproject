@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "react-native-actionsheet",
+      "/Users/taobangping/Desktop/ReactNative/study/ReactNativeActionSheet"
+    ]
+  ],
+  "_from": "react-native-actionsheet@latest",
+  "_id": "react-native-actionsheet@0.1.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-actionsheet",
+  "_nodeVersion": "4.3.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-actionsheet-0.1.4.tgz_1457524855991_0.7588164955377579"
+  },
+  "_npmUser": {
+    "email": "striverx@163.com",
+    "name": "yannxiao"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-actionsheet",
+    "raw": "react-native-actionsheet",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-actionsheet/-/react-native-actionsheet-0.1.4.tgz",
+  "_shasum": "d616b6d93d688edddd3ca2f5381ae4acbd1fdf79",
+  "_shrinkwrap": null,
+  "_spec": "react-native-actionsheet",
+  "_where": "/Users/taobangping/Desktop/ReactNative/study/ReactNativeActionSheet",
+  "author": {
+    "name": "yannxiao"
+  },
+  "bugs": {
+    "url": "https://github.com/beefe/react-native-actionsheet/issues"
+  },
+  "dependencies": {},
+  "description": "Cross platform ActionSheet. This component implements a custom ActionSheet  and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d616b6d93d688edddd3ca2f5381ae4acbd1fdf79",
+    "tarball": "https://registry.npmjs.org/react-native-actionsheet/-/react-native-actionsheet-0.1.4.tgz"
+  },
+  "gitHead": "1ba055c058868eaab6f7fe9e1df90420a7562f87",
+  "homepage": "https://github.com/beefe/react-native-actionsheet#readme",
+  "keywords": [
+    "ActionSheet sheet react native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yannxiao",
+      "email": "striverx@163.com"
+    }
+  ],
+  "name": "react-native-actionsheet",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beefe/react-native-actionsheet.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.4"
+}
